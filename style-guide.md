@@ -24,3 +24,6 @@ The designs were created to the following widths:
 
 - Family: [Outfit](https://fonts.google.com/specimen/Outfit)
 - Weights: 400, 700
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+font-family: 'Outfit', sans-serif;
